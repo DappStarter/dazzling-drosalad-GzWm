@@ -1,0 +1,13 @@
+{
+    "name": "DevCoin",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Developer DAO",
+        "/category/asset_value_tracking/core-token/symbol": "DEV",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "12000000"
+    }
+}
